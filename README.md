@@ -3,10 +3,10 @@
  
  A simple App that determines/predicts the number drawn by the user on texture with the help of MNIST model.
  
- ### Demo:
+ ### __Demo:__
  <img src="mnist.gif" alt="this slowpoke moves"  width="800" height = "450">
 
- ### Testing:
+ ### __Testing:__
  1. Clone the repository using the following command in Git:
    ```
    git clone https://github.com/NotFarFromBlonded/Unity-MNIST-Barracuda.git
@@ -20,9 +20,9 @@
  5. Navigate to `Scenes` folder and open `SampleScene`. Set the dimensions of game view window to __1920x1080 potrait__ (For best results download Device-Simulator for unity using package manager).
  6. Press play.
   
- ### Installation:
- Download the apk file from apk->MNISTBarracudaUNITY.apk and install it in your android device
+ ### __Installation:__
+ Download the apk file from ```apk``` -> ```MNISTBarracudaUNITY.apk``` and install it in your android device
  
- ### Packages used:
+ ### __Packages used:__
  - Barracuda
  - Device-simulator
